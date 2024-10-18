@@ -12,7 +12,7 @@ Here is a comparison of an r-limited graph compared to an r-limited Delaunay gra
 
 The paper also provides a great visualization for their approach.
 <p align="center">
-  <img src="images/rlimdel.png">
+  <img src="images/graphs.png">
 </p>
 
 When paired with the usual alignment, seperation, and cohesion rules, our boids no longer have neighboring edges that overlap, improving the performance of the algorithm.
