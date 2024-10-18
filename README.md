@@ -12,4 +12,6 @@ The paper also provides a great visualization for their approach.
 - ![graphs](images/graphs.png)
 
 When paired with the usual alignment, seperation, and cohesion rules, our boids no longer have neighboring edges that overlap, improving the performance of the algorithm.
-<img src="images/boidsfinal.gif" margins="auto" width=60% height=60%>
+<p align="center">
+  <img src="images/boidsfinal.gif" margins="auto" width=60% height=60%>
+</p>
